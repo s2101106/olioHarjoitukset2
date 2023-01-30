@@ -1,0 +1,15 @@
+C:\olioHarjoitukset2\tilatOvi\bin\Debug\net6.0\tilatOvi.exe
+C:\olioHarjoitukset2\tilatOvi\bin\Debug\net6.0\tilatOvi.deps.json
+C:\olioHarjoitukset2\tilatOvi\bin\Debug\net6.0\tilatOvi.runtimeconfig.json
+C:\olioHarjoitukset2\tilatOvi\bin\Debug\net6.0\tilatOvi.dll
+C:\olioHarjoitukset2\tilatOvi\bin\Debug\net6.0\tilatOvi.pdb
+C:\olioHarjoitukset2\tilatOvi\obj\Debug\net6.0\tilatOvi.csproj.AssemblyReference.cache
+C:\olioHarjoitukset2\tilatOvi\obj\Debug\net6.0\tilatOvi.GeneratedMSBuildEditorConfig.editorconfig
+C:\olioHarjoitukset2\tilatOvi\obj\Debug\net6.0\tilatOvi.AssemblyInfoInputs.cache
+C:\olioHarjoitukset2\tilatOvi\obj\Debug\net6.0\tilatOvi.AssemblyInfo.cs
+C:\olioHarjoitukset2\tilatOvi\obj\Debug\net6.0\tilatOvi.csproj.CoreCompileInputs.cache
+C:\olioHarjoitukset2\tilatOvi\obj\Debug\net6.0\tilatOvi.dll
+C:\olioHarjoitukset2\tilatOvi\obj\Debug\net6.0\refint\tilatOvi.dll
+C:\olioHarjoitukset2\tilatOvi\obj\Debug\net6.0\tilatOvi.pdb
+C:\olioHarjoitukset2\tilatOvi\obj\Debug\net6.0\tilatOvi.genruntimeconfig.cache
+C:\olioHarjoitukset2\tilatOvi\obj\Debug\net6.0\ref\tilatOvi.dll
