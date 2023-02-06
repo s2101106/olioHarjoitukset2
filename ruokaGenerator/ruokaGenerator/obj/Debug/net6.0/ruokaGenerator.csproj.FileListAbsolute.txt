@@ -1,0 +1,15 @@
+C:\olioHarjoitukset2\ruokaGenerator\ruokaGenerator\obj\Debug\net6.0\ruokaGenerator.csproj.AssemblyReference.cache
+C:\olioHarjoitukset2\ruokaGenerator\ruokaGenerator\obj\Debug\net6.0\ruokaGenerator.GeneratedMSBuildEditorConfig.editorconfig
+C:\olioHarjoitukset2\ruokaGenerator\ruokaGenerator\obj\Debug\net6.0\ruokaGenerator.AssemblyInfoInputs.cache
+C:\olioHarjoitukset2\ruokaGenerator\ruokaGenerator\obj\Debug\net6.0\ruokaGenerator.AssemblyInfo.cs
+C:\olioHarjoitukset2\ruokaGenerator\ruokaGenerator\obj\Debug\net6.0\ruokaGenerator.csproj.CoreCompileInputs.cache
+C:\olioHarjoitukset2\ruokaGenerator\ruokaGenerator\bin\Debug\net6.0\ruokaGenerator.exe
+C:\olioHarjoitukset2\ruokaGenerator\ruokaGenerator\bin\Debug\net6.0\ruokaGenerator.deps.json
+C:\olioHarjoitukset2\ruokaGenerator\ruokaGenerator\bin\Debug\net6.0\ruokaGenerator.runtimeconfig.json
+C:\olioHarjoitukset2\ruokaGenerator\ruokaGenerator\bin\Debug\net6.0\ruokaGenerator.dll
+C:\olioHarjoitukset2\ruokaGenerator\ruokaGenerator\bin\Debug\net6.0\ruokaGenerator.pdb
+C:\olioHarjoitukset2\ruokaGenerator\ruokaGenerator\obj\Debug\net6.0\ruokaGenerator.dll
+C:\olioHarjoitukset2\ruokaGenerator\ruokaGenerator\obj\Debug\net6.0\refint\ruokaGenerator.dll
+C:\olioHarjoitukset2\ruokaGenerator\ruokaGenerator\obj\Debug\net6.0\ruokaGenerator.pdb
+C:\olioHarjoitukset2\ruokaGenerator\ruokaGenerator\obj\Debug\net6.0\ruokaGenerator.genruntimeconfig.cache
+C:\olioHarjoitukset2\ruokaGenerator\ruokaGenerator\obj\Debug\net6.0\ref\ruokaGenerator.dll

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\olioHarjoitukset2\\tilatOvi\\tilatOvi.csproj",
-      "projectName": "tilatOvi",
-      "projectPath": "C:\\olioHarjoitukset2\\tilatOvi\\tilatOvi.csproj",
+      "projectUniqueName": "C:\\olioHarjoitukset2\\ruokaGenerator\\ruokaGenerator\\ruokaGenerator.csproj",
+      "projectName": "ruokaGenerator",
+      "projectPath": "C:\\olioHarjoitukset2\\ruokaGenerator\\ruokaGenerator\\ruokaGenerator.csproj",
       "packagesPath": "C:\\Users\\s2101106\\.nuget\\packages\\",
-      "outputPath": "C:\\olioHarjoitukset2\\tilatOvi\\obj\\",
+      "outputPath": "C:\\olioHarjoitukset2\\ruokaGenerator\\ruokaGenerator\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\s2101106\\AppData\\Roaming\\NuGet\\NuGet.Config",

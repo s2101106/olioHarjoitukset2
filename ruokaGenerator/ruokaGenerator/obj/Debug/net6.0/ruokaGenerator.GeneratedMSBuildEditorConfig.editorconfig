@@ -7,5 +7,5 @@ build_property.InvariantGlobalization =
 build_property.PlatformNeutralAssembly = 
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
-build_property.RootNamespace = tilatOvi
-build_property.ProjectDir = C:\olioHarjoitukset2\tilatOvi\
+build_property.RootNamespace = ruokaGenerator
+build_property.ProjectDir = C:\olioHarjoitukset2\ruokaGenerator\ruokaGenerator\
