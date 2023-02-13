@@ -1,0 +1,15 @@
+C:\olioHarjoitukset2\nuoliHarjoitus\nuoliaKaupan\bin\Debug\net6.0\nuoliaKaupan.exe
+C:\olioHarjoitukset2\nuoliHarjoitus\nuoliaKaupan\bin\Debug\net6.0\nuoliaKaupan.deps.json
+C:\olioHarjoitukset2\nuoliHarjoitus\nuoliaKaupan\bin\Debug\net6.0\nuoliaKaupan.runtimeconfig.json
+C:\olioHarjoitukset2\nuoliHarjoitus\nuoliaKaupan\bin\Debug\net6.0\nuoliaKaupan.dll
+C:\olioHarjoitukset2\nuoliHarjoitus\nuoliaKaupan\bin\Debug\net6.0\nuoliaKaupan.pdb
+C:\olioHarjoitukset2\nuoliHarjoitus\nuoliaKaupan\obj\Debug\net6.0\nuoliaKaupan.csproj.AssemblyReference.cache
+C:\olioHarjoitukset2\nuoliHarjoitus\nuoliaKaupan\obj\Debug\net6.0\nuoliaKaupan.GeneratedMSBuildEditorConfig.editorconfig
+C:\olioHarjoitukset2\nuoliHarjoitus\nuoliaKaupan\obj\Debug\net6.0\nuoliaKaupan.AssemblyInfoInputs.cache
+C:\olioHarjoitukset2\nuoliHarjoitus\nuoliaKaupan\obj\Debug\net6.0\nuoliaKaupan.AssemblyInfo.cs
+C:\olioHarjoitukset2\nuoliHarjoitus\nuoliaKaupan\obj\Debug\net6.0\nuoliaKaupan.csproj.CoreCompileInputs.cache
+C:\olioHarjoitukset2\nuoliHarjoitus\nuoliaKaupan\obj\Debug\net6.0\nuoliaKaupan.dll
+C:\olioHarjoitukset2\nuoliHarjoitus\nuoliaKaupan\obj\Debug\net6.0\refint\nuoliaKaupan.dll
+C:\olioHarjoitukset2\nuoliHarjoitus\nuoliaKaupan\obj\Debug\net6.0\nuoliaKaupan.pdb
+C:\olioHarjoitukset2\nuoliHarjoitus\nuoliaKaupan\obj\Debug\net6.0\nuoliaKaupan.genruntimeconfig.cache
+C:\olioHarjoitukset2\nuoliHarjoitus\nuoliaKaupan\obj\Debug\net6.0\ref\nuoliaKaupan.dll
