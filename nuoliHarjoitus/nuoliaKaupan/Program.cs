@@ -12,17 +12,17 @@
                 string kärki=Console.ReadLine();
                 if (kärki == "puu") 
                 {
-                    nuoli.karkiNuolessa = Luokka.Karki.Puu;
+                    nuoli.karkiNuolessa = Karki.Puu;
                     nuoli.karkiHinta += 3;
                 }
                 if (kärki == "teräs")
                 {
-                    nuoli.karkiNuolessa = Luokka.Karki.Teräs;
+                    nuoli.karkiNuolessa = Karki.Teräs;
                     nuoli.karkiHinta += 5;
                 }
                 if (kärki == "timantti")
                 {
-                    nuoli.karkiNuolessa = Luokka.Karki.Timantti;
+                    nuoli.karkiNuolessa = Karki.Timantti;
                     nuoli.karkiHinta += 50;
                 }
 
@@ -30,18 +30,18 @@
                 string perä = Console.ReadLine();
                 if (perä == "lehti")
                 {
-                    nuoli.peraNuolessa = Luokka.Pera.Lehti;
+                    nuoli.peraNuolessa = Pera.Lehti;
                     nuoli.peraHinta+= 0;   
                 }
                 if (perä == "kanansulka")
                 {
                     nuoli.peraHinta += 1;
-                    nuoli.peraNuolessa = Luokka.Pera.kanansulka;
+                    nuoli.peraNuolessa = Pera.kanansulka;
                 }
                 if (perä == "kotkansulka")
                 {
                     nuoli.peraHinta += 5;
-                    nuoli.peraNuolessa = Luokka.Pera.kotkansulka;
+                    nuoli.peraNuolessa = Pera.kotkansulka;
                 }
 
                 Console.Write("Nuolen pituus (60-100cm):");
@@ -62,10 +62,8 @@
 
             public int karkiHinta;
             public int peraHinta;
-            public enum Karki{Puu, Teräs, Timantti};
             public Karki karkiNuolessa;
 
-            public enum Pera {Lehti, kanansulka, kotkansulka };
             public Pera peraNuolessa;
 
             public float PalautaHinta(int varsiPituus, int peraHinta, int karkiHinta)
@@ -75,6 +73,8 @@
             }
                 
         }
+            public enum Pera {Lehti, kanansulka, kotkansulka };
+            public enum Karki{Puu, Teräs, Timantti};
 
 
     }
