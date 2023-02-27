@@ -1,4 +1,6 @@
-﻿namespace nuoliaKaupan
+﻿using System;
+
+namespace nuoliaKaupan
 {
     internal class program
     {
@@ -12,69 +14,69 @@
                 string kärki=Console.ReadLine();
                 if (kärki == "puu") 
                 {
-                    nuoli.karkiNuolessa = Karki.Puu;
-                    nuoli.karkiHinta += 3;
+                    nuoli.SetKarkiHinta(3);
                 }
                 if (kärki == "teräs")
                 {
-                    nuoli.karkiNuolessa = Karki.Teräs;
-                    nuoli.karkiHinta += 5;
+                    nuoli.SetKarkiHinta(5);
                 }
                 if (kärki == "timantti")
                 {
-                    nuoli.karkiNuolessa = Karki.Timantti;
-                    nuoli.karkiHinta += 50;
+                    nuoli.SetKarkiHinta(50);
                 }
 
                 Console.Write("Minkälainen perä (lehti, kanansulka vai kotkansulka):");
                 string perä = Console.ReadLine();
                 if (perä == "lehti")
                 {
-                    nuoli.peraNuolessa = Pera.Lehti;
-                    nuoli.peraHinta+= 0;   
+                    nuoli.SetPeraHinta(0);   
                 }
                 if (perä == "kanansulka")
                 {
-                    nuoli.peraHinta += 1;
-                    nuoli.peraNuolessa = Pera.kanansulka;
+                    nuoli.SetPeraHinta(1);
                 }
                 if (perä == "kotkansulka")
                 {
-                    nuoli.peraHinta += 5;
-                    nuoli.peraNuolessa = Pera.kotkansulka;
+                    nuoli.SetPeraHinta(5);
                 }
 
                 Console.Write("Nuolen pituus (60-100cm):");
                 string pituus = Console.ReadLine();
-                nuoli.varsiPituus=Convert.ToInt32(pituus);
-            
+                nuoli.SetVarsiPituus(Convert.ToInt32(pituus)); 
 
-                Console.WriteLine(nuoli.PalautaHinta(nuoli.varsiPituus, nuoli.peraHinta, nuoli.karkiHinta));
+
+
+                Console.WriteLine(nuoli.PalautaHinta(nuoli.GetVarsiPituus(), nuoli.GetPeraHinta(), nuoli.GetKarkiHinta()));
             
             }
-            
-
-
         }
         class Luokka
         {
-            public int varsiPituus;
-
-            public int karkiHinta;
-            public int peraHinta;
-            public Karki karkiNuolessa;
-
-            public Pera peraNuolessa;
+            private int _varsiPituus;
+            private int _karkiHinta;
+            private int _peraHinta;
+            private Karki karkiNuolessa;
+            private Pera peraNuolessa;
 
             public float PalautaHinta(int varsiPituus, int peraHinta, int karkiHinta)
             {
                 float hinta = varsiPituus * 0.05f+peraHinta+karkiHinta;
                 return hinta;
             }
-                
+
+            public void SetVarsiPituus(int varsiPituus) { _varsiPituus= varsiPituus; }
+            public int GetVarsiPituus() { return _varsiPituus; }
+
+
+            public void SetPeraHinta(int peraHinta) { _peraHinta = peraHinta; }
+            public int GetPeraHinta() { return _peraHinta; }
+
+            public void SetKarkiHinta(int karkiHinta) { _karkiHinta = karkiHinta; }
+            public int GetKarkiHinta() { return _karkiHinta; }
+
         }
-            public enum Pera {Lehti, kanansulka, kotkansulka };
-            public enum Karki{Puu, Teräs, Timantti};
+        public enum Pera {Lehti, kanansulka, kotkansulka };
+        public enum Karki{Puu, Teräs, Timantti};
 
 
     }
