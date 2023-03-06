@@ -14,69 +14,50 @@ namespace nuoliaKaupan
                 string kärki=Console.ReadLine();
                 if (kärki == "puu") 
                 {
-                    nuoli.SetKarkiHinta(3);
+                    nuoli._karkiHinta=3;
                 }
                 if (kärki == "teräs")
                 {
-                    nuoli.SetKarkiHinta(5);
+                    nuoli._karkiHinta = 5;
                 }
                 if (kärki == "timantti")
                 {
-                    nuoli.SetKarkiHinta(50);
+                    nuoli._karkiHinta = 50;
                 }
 
                 Console.Write("Minkälainen perä (lehti, kanansulka vai kotkansulka):");
                 string perä = Console.ReadLine();
                 if (perä == "lehti")
                 {
-                    nuoli.SetPeraHinta(0);   
+                    nuoli._peraHinta = 0;   
                 }
                 if (perä == "kanansulka")
                 {
-                    nuoli.SetPeraHinta(1);
+                    nuoli._peraHinta = 1;
                 }
                 if (perä == "kotkansulka")
                 {
-                    nuoli.SetPeraHinta(5);
+                    nuoli._peraHinta = 5;
                 }
 
                 Console.Write("Nuolen pituus (60-100cm):");
                 string pituus = Console.ReadLine();
-                nuoli.SetVarsiPituus(Convert.ToInt32(pituus)); 
+                nuoli._varsiPituus=Convert.ToInt32(pituus);
 
 
-
-                Console.WriteLine(nuoli.PalautaHinta(nuoli.GetVarsiPituus(), nuoli.GetPeraHinta(), nuoli.GetKarkiHinta()));
+                Console.WriteLine(nuoli._palautaHinta);
             
             }
         }
         class Luokka
         {
-            private int _varsiPituus;
-            private int _karkiHinta;
-            private int _peraHinta;
-            private Karki karkiNuolessa;
-            private Pera peraNuolessa;
-
-            public float PalautaHinta(int varsiPituus, int peraHinta, int karkiHinta)
-            {
-                float hinta = varsiPituus * 0.05f+peraHinta+karkiHinta;
-                return hinta;
-            }
-
-            public void SetVarsiPituus(int varsiPituus) { _varsiPituus= varsiPituus; }
-            public int GetVarsiPituus() { return _varsiPituus; }
-
-
-            public void SetPeraHinta(int peraHinta) { _peraHinta = peraHinta; }
-            public int GetPeraHinta() { return _peraHinta; }
-
-            public void SetKarkiHinta(int karkiHinta) { _karkiHinta = karkiHinta; }
-            public int GetKarkiHinta() { return _karkiHinta; }
+            public int _varsiPituus { get; set; }
+            public int _karkiHinta { get; set; }
+            public int _peraHinta { get; set; }
+            public float _palautaHinta { get=>_peraHinta+_karkiHinta+(_varsiPituus*0.05f); }
 
         }
-        public enum Pera {Lehti, kanansulka, kotkansulka };
-        public enum Karki{Puu, Teräs, Timantti};
+
 
 
     }
