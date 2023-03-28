@@ -1,0 +1,15 @@
+C:\olioHarjoitukset2\reppuHarjoitus\reppu\bin\Debug\net6.0\reppu.exe
+C:\olioHarjoitukset2\reppuHarjoitus\reppu\bin\Debug\net6.0\reppu.deps.json
+C:\olioHarjoitukset2\reppuHarjoitus\reppu\bin\Debug\net6.0\reppu.runtimeconfig.json
+C:\olioHarjoitukset2\reppuHarjoitus\reppu\bin\Debug\net6.0\reppu.dll
+C:\olioHarjoitukset2\reppuHarjoitus\reppu\bin\Debug\net6.0\reppu.pdb
+C:\olioHarjoitukset2\reppuHarjoitus\reppu\obj\Debug\net6.0\reppu.csproj.AssemblyReference.cache
+C:\olioHarjoitukset2\reppuHarjoitus\reppu\obj\Debug\net6.0\reppu.GeneratedMSBuildEditorConfig.editorconfig
+C:\olioHarjoitukset2\reppuHarjoitus\reppu\obj\Debug\net6.0\reppu.AssemblyInfoInputs.cache
+C:\olioHarjoitukset2\reppuHarjoitus\reppu\obj\Debug\net6.0\reppu.AssemblyInfo.cs
+C:\olioHarjoitukset2\reppuHarjoitus\reppu\obj\Debug\net6.0\reppu.csproj.CoreCompileInputs.cache
+C:\olioHarjoitukset2\reppuHarjoitus\reppu\obj\Debug\net6.0\reppu.dll
+C:\olioHarjoitukset2\reppuHarjoitus\reppu\obj\Debug\net6.0\refint\reppu.dll
+C:\olioHarjoitukset2\reppuHarjoitus\reppu\obj\Debug\net6.0\reppu.pdb
+C:\olioHarjoitukset2\reppuHarjoitus\reppu\obj\Debug\net6.0\reppu.genruntimeconfig.cache
+C:\olioHarjoitukset2\reppuHarjoitus\reppu\obj\Debug\net6.0\ref\reppu.dll
