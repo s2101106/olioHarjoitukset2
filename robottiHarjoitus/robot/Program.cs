@@ -22,6 +22,16 @@
                 }
             }
         }
+        public abstract class RobottiKästy
+        {
+            
+        
+        }
+        public void class Käynnistä :RobottiKästy{ }
+        public void class Sammuta : RobottiKästy { }
+
+
+
 
     }
 }
