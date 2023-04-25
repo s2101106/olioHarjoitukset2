@@ -1,0 +1,15 @@
+C:\olioHarjoitukset2\robottiHarjoitus\robot\bin\Debug\net6.0\robot.exe
+C:\olioHarjoitukset2\robottiHarjoitus\robot\bin\Debug\net6.0\robot.deps.json
+C:\olioHarjoitukset2\robottiHarjoitus\robot\bin\Debug\net6.0\robot.runtimeconfig.json
+C:\olioHarjoitukset2\robottiHarjoitus\robot\bin\Debug\net6.0\robot.dll
+C:\olioHarjoitukset2\robottiHarjoitus\robot\bin\Debug\net6.0\robot.pdb
+C:\olioHarjoitukset2\robottiHarjoitus\robot\obj\Debug\net6.0\robot.csproj.AssemblyReference.cache
+C:\olioHarjoitukset2\robottiHarjoitus\robot\obj\Debug\net6.0\robot.GeneratedMSBuildEditorConfig.editorconfig
+C:\olioHarjoitukset2\robottiHarjoitus\robot\obj\Debug\net6.0\robot.AssemblyInfoInputs.cache
+C:\olioHarjoitukset2\robottiHarjoitus\robot\obj\Debug\net6.0\robot.AssemblyInfo.cs
+C:\olioHarjoitukset2\robottiHarjoitus\robot\obj\Debug\net6.0\robot.csproj.CoreCompileInputs.cache
+C:\olioHarjoitukset2\robottiHarjoitus\robot\obj\Debug\net6.0\robot.dll
+C:\olioHarjoitukset2\robottiHarjoitus\robot\obj\Debug\net6.0\refint\robot.dll
+C:\olioHarjoitukset2\robottiHarjoitus\robot\obj\Debug\net6.0\robot.pdb
+C:\olioHarjoitukset2\robottiHarjoitus\robot\obj\Debug\net6.0\robot.genruntimeconfig.cache
+C:\olioHarjoitukset2\robottiHarjoitus\robot\obj\Debug\net6.0\ref\robot.dll
