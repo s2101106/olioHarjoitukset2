@@ -1,0 +1,15 @@
+C:\olioHarjoitukset2\harjoitustyö\harjoitustyö\bin\Debug\net6.0\harjoitustyö.exe
+C:\olioHarjoitukset2\harjoitustyö\harjoitustyö\bin\Debug\net6.0\harjoitustyö.deps.json
+C:\olioHarjoitukset2\harjoitustyö\harjoitustyö\bin\Debug\net6.0\harjoitustyö.runtimeconfig.json
+C:\olioHarjoitukset2\harjoitustyö\harjoitustyö\bin\Debug\net6.0\harjoitustyö.dll
+C:\olioHarjoitukset2\harjoitustyö\harjoitustyö\bin\Debug\net6.0\harjoitustyö.pdb
+C:\olioHarjoitukset2\harjoitustyö\harjoitustyö\obj\Debug\net6.0\harjoitustyö.csproj.AssemblyReference.cache
+C:\olioHarjoitukset2\harjoitustyö\harjoitustyö\obj\Debug\net6.0\harjoitustyö.GeneratedMSBuildEditorConfig.editorconfig
+C:\olioHarjoitukset2\harjoitustyö\harjoitustyö\obj\Debug\net6.0\harjoitustyö.AssemblyInfoInputs.cache
+C:\olioHarjoitukset2\harjoitustyö\harjoitustyö\obj\Debug\net6.0\harjoitustyö.AssemblyInfo.cs
+C:\olioHarjoitukset2\harjoitustyö\harjoitustyö\obj\Debug\net6.0\harjoitustyö.csproj.CoreCompileInputs.cache
+C:\olioHarjoitukset2\harjoitustyö\harjoitustyö\obj\Debug\net6.0\harjoitustyö.dll
+C:\olioHarjoitukset2\harjoitustyö\harjoitustyö\obj\Debug\net6.0\refint\harjoitustyö.dll
+C:\olioHarjoitukset2\harjoitustyö\harjoitustyö\obj\Debug\net6.0\harjoitustyö.pdb
+C:\olioHarjoitukset2\harjoitustyö\harjoitustyö\obj\Debug\net6.0\harjoitustyö.genruntimeconfig.cache
+C:\olioHarjoitukset2\harjoitustyö\harjoitustyö\obj\Debug\net6.0\ref\harjoitustyö.dll
